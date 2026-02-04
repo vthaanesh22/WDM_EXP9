@@ -1,7 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-## Name: Thaanesh V
-## Register Number: 212223230228
-### DATE: 04-02-2026
+
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
